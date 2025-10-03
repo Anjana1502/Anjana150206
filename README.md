@@ -1,1 +1,1 @@
-# Anjana150206
+# Real Time Stock Ticker Using HTML, CSS, JS
